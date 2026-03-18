@@ -62,7 +62,7 @@ API simulation layer
 
 🛠️ Tech Stack
 
-Frontend:CSS, TypeScript
+Frontend:CSS, JavaScript ,TypeScript
 
 Backend (Simulated): RESTful API structure
 
